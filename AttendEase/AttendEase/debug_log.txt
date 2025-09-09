@@ -1,0 +1,1972 @@
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - class_id received: 3rd Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: S VASANTHAN, Class ID: 2nd Year C
+  Student: P Shruthi, Class ID: 2nd Year C
+  Student: S. SARANYA, Class ID: 2nd Year C
+  Student: SHARMILA.B, Class ID: 2nd Year C
+  Student: SARAN V, Class ID: 2nd Year C
+  Student: VISHAL K, Class ID: 2nd Year C
+  Student: A.THOUFIKA, Class ID: 2nd Year C
+  Student: SHARMILA.M, Class ID: 2nd Year C
+  Student: SANGEERTHANA.M, Class ID: 2nd Year C
+  Student: P. Vaitheeshwari, Class ID: 2nd Year C
+  Student: C.SANTHOSH, Class ID: 2nd Year C
+  Student: SRI HARI KUMARAN B, Class ID: 2nd Year C
+  Student: A.SUJATHA, Class ID: 2nd Year C
+  Student: VARSHA S, Class ID: 2nd Year C
+  Student: SIDDIQ.R, Class ID: 2nd Year C
+  Student: SANTHOSH SOUNDAR, Class ID: 2nd Year C
+  Student: THENNARASAN.V, Class ID: 2nd Year C
+  Student: SURESH KUMAR P, Class ID: 2nd Year C
+  Student: S YOGESH SARAVANA, Class ID: 2nd Year C
+  Student: THILOTHAMMA.T, Class ID: 2nd Year C
+  Student: THANGARAJ S, Class ID: 2nd Year C
+  Student: V.TAMILARASI, Class ID: 2nd Year C
+  Student: SYED JAFIN H, Class ID: 2nd Year C
+  Student: M.TAJNISHA, Class ID: 2nd Year C
+  Student: SELVAKUMAR P, Class ID: 2nd Year C
+  Student: D VISHNU, Class ID: 2nd Year C
+  Student: SONALIKA D V, Class ID: 2nd Year C
+  Student: SRIRAM.V, Class ID: 2nd Year C
+  Student: U SANJAI, Class ID: 2nd Year C
+  Student: A.SOWMIYA, Class ID: 2nd Year C
+  Student: R.RAGUL, Class ID: 2nd Year C
+  Student: S.GOKUL, Class ID: 2nd Year C
+  Student: M. SANAKIYARAJ, Class ID: 2nd Year C
+  Student: S.VIMAL NATH, Class ID: 2nd Year C
+  Student: M.N.SREESHA, Class ID: 2nd Year C
+  Student: G.SUMAN, Class ID: 2nd Year C
+  Student: JANARTHANAN R, Class ID: 2nd Year C
+  Student: S.SARAMA, Class ID: 2nd Year C
+  Student: S.SAKTHIVEL, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: SIVAGURU T, Class ID: 2nd Year C
+  Student: L.SAKTHIVEL, Class ID: 2nd Year C
+  Student: C.SRIKANTH, Class ID: 2nd Year C
+  Student: MONISHAN S S, Class ID: 2nd Year C
+  Student: VINO M, Class ID: 2nd Year C
+  Student: SELVARAGAVAN K G, Class ID: 2nd Year C
+  Student: KARTHICKEYAN S, Class ID: 2nd Year C
+  Student: SATHISH M, Class ID: 2nd Year C
+  Student: VIGNESH V, Class ID: 2nd Year C
+  Student: THILAKBALAJI E, Class ID: 2nd Year C
+  Student: VENKATRAMANA S, Class ID: 2nd Year C
+  Student: S.THIRUMURUGAN, Class ID: 2nd Year C
+  Student: G.SIVASHREE, Class ID: 2nd Year C
+  Student: SANJANA.MS, Class ID: 2nd Year C
+  Student: R.VISHNU PRIYA, Class ID: 2nd Year C
+  Student: V.KARTHICK, Class ID: 2nd Year C
+  Student: VIKRAM.M.S, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: R VENKATESWARA, Class ID: 2nd Year C
+DEBUG: mark_attendance - class_id received: 3rd Year
+DEBUG: mark_attendance - students fetched: 48
+  Student: POOJA S, Class ID: 3rd Year
+  Student: ABARNA V, Class ID: 3rd Year
+  Student: ABINAYA.V, Class ID: 3rd Year
+  Student: AMALA DARSHA. D, Class ID: 3rd Year
+  Student: B.KUMARAVEL, Class ID: 3rd Year
+  Student: BASKAR V, Class ID: 3rd Year
+  Student: DEENA.R, Class ID: 3rd Year
+  Student: DEVASHREE R, Class ID: 3rd Year
+  Student: DHANUSH.K.M, Class ID: 3rd Year
+  Student: DHANUSH.S, Class ID: 3rd Year
+  Student: DHIVYANTH D, Class ID: 3rd Year
+  Student: HARIHARAN R, Class ID: 3rd Year
+  Student: KANIGA M, Class ID: 3rd Year
+  Student: KANNAN N, Class ID: 3rd Year
+  Student: LAKSHITHA K U, Class ID: 3rd Year
+  Student: LATIKA SREE U, Class ID: 3rd Year
+  Student: M. ABINAYA, Class ID: 3rd Year
+  Student: M.HAMSALEKHA, Class ID: 3rd Year
+  Student: M.THILAK RAJ, Class ID: 3rd Year
+  Student: MADHUMITHRA S, Class ID: 3rd Year
+  Student: MOHAMED ASIF M, Class ID: 3rd Year
+  Student: NALIN CHANDARAN.C, Class ID: 3rd Year
+  Student: NANDHAKISHORE.S, Class ID: 3rd Year
+  Student: NIVASH.K, Class ID: 3rd Year
+  Student: P.SABHARISHWARI, Class ID: 3rd Year
+  Student: P.SHARVESH, Class ID: 3rd Year
+  Student: POOVIZHI S, Class ID: 3rd Year
+  Student: R.DHANUSH ADITHYA, Class ID: 3rd Year
+  Student: R.THAMARAI SELVAN, Class ID: 3rd Year
+  Student: RAJAN.J, Class ID: 3rd Year
+  Student: RISHIKESAVAN S, Class ID: 3rd Year
+  Student: ROSHAN KUMAR E, Class ID: 3rd Year
+  Student: RUBAN A, Class ID: 3rd Year
+  Student: S.KARTHICK, Class ID: 3rd Year
+  Student: S.PAVITHRA, Class ID: 3rd Year
+  Student: S.RITHIKA, Class ID: 3rd Year
+  Student: S.VARSHINI, Class ID: 3rd Year
+  Student: SANDHIYA.B, Class ID: 3rd Year
+  Student: SHARVESH C, Class ID: 3rd Year
+  Student: SIVABALAN.N, Class ID: 3rd Year
+  Student: SRINITHI M, Class ID: 3rd Year
+  Student: T.PRAGADESWARI, Class ID: 3rd Year
+  Student: THANISH S, Class ID: 3rd Year
+  Student: THANUJA D, Class ID: 3rd Year
+  Student: THENMOZHI T, Class ID: 3rd Year
+  Student: V. RAKESH, Class ID: 3rd Year
+  Student: VIKASH KS, Class ID: 3rd Year
+  Student: VIMAL T, Class ID: 3rd Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: 2nd Year C
+DEBUG: mark_attendance - students fetched: 63
+  Student: S VASANTHAN, Class ID: 2nd Year C
+  Student: P Shruthi, Class ID: 2nd Year C
+  Student: S. SARANYA, Class ID: 2nd Year C
+  Student: SHARMILA.B, Class ID: 2nd Year C
+  Student: SARAN V, Class ID: 2nd Year C
+  Student: VISHAL K, Class ID: 2nd Year C
+  Student: A.THOUFIKA, Class ID: 2nd Year C
+  Student: SHARMILA.M, Class ID: 2nd Year C
+  Student: SANGEERTHANA.M, Class ID: 2nd Year C
+  Student: P. Vaitheeshwari, Class ID: 2nd Year C
+  Student: C.SANTHOSH, Class ID: 2nd Year C
+  Student: SRI HARI KUMARAN B, Class ID: 2nd Year C
+  Student: A.SUJATHA, Class ID: 2nd Year C
+  Student: VARSHA S, Class ID: 2nd Year C
+  Student: SIDDIQ.R, Class ID: 2nd Year C
+  Student: SANTHOSH SOUNDAR, Class ID: 2nd Year C
+  Student: THENNARASAN.V, Class ID: 2nd Year C
+  Student: SURESH KUMAR P, Class ID: 2nd Year C
+  Student: S YOGESH SARAVANA, Class ID: 2nd Year C
+  Student: THILOTHAMMA.T, Class ID: 2nd Year C
+  Student: THANGARAJ S, Class ID: 2nd Year C
+  Student: V.TAMILARASI, Class ID: 2nd Year C
+  Student: SYED JAFIN H, Class ID: 2nd Year C
+  Student: M.TAJNISHA, Class ID: 2nd Year C
+  Student: SELVAKUMAR P, Class ID: 2nd Year C
+  Student: D VISHNU, Class ID: 2nd Year C
+  Student: SONALIKA D V, Class ID: 2nd Year C
+  Student: SRIRAM.V, Class ID: 2nd Year C
+  Student: U SANJAI, Class ID: 2nd Year C
+  Student: A.SOWMIYA, Class ID: 2nd Year C
+  Student: R.RAGUL, Class ID: 2nd Year C
+  Student: S.GOKUL, Class ID: 2nd Year C
+  Student: M. SANAKIYARAJ, Class ID: 2nd Year C
+  Student: S.VIMAL NATH, Class ID: 2nd Year C
+  Student: M.N.SREESHA, Class ID: 2nd Year C
+  Student: G.SUMAN, Class ID: 2nd Year C
+  Student: JANARTHANAN R, Class ID: 2nd Year C
+  Student: S.SARAMA, Class ID: 2nd Year C
+  Student: S.SAKTHIVEL, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: SIVAGURU T, Class ID: 2nd Year C
+  Student: L.SAKTHIVEL, Class ID: 2nd Year C
+  Student: C.SRIKANTH, Class ID: 2nd Year C
+  Student: MONISHAN S S, Class ID: 2nd Year C
+  Student: VINO M, Class ID: 2nd Year C
+  Student: SELVARAGAVAN K G, Class ID: 2nd Year C
+  Student: KARTHICKEYAN S, Class ID: 2nd Year C
+  Student: SATHISH M, Class ID: 2nd Year C
+  Student: VIGNESH V, Class ID: 2nd Year C
+  Student: THILAKBALAJI E, Class ID: 2nd Year C
+  Student: VENKATRAMANA S, Class ID: 2nd Year C
+  Student: S.THIRUMURUGAN, Class ID: 2nd Year C
+  Student: G.SIVASHREE, Class ID: 2nd Year C
+  Student: SANJANA.MS, Class ID: 2nd Year C
+  Student: R.VISHNU PRIYA, Class ID: 2nd Year C
+  Student: V.KARTHICK, Class ID: 2nd Year C
+  Student: VIKRAM.M.S, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: R VENKATESWARA, Class ID: 2nd Year C
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: 2nd Year C
+DEBUG: mark_attendance - students fetched: 63
+  Student: S VASANTHAN, Class ID: 2nd Year C
+  Student: P Shruthi, Class ID: 2nd Year C
+  Student: S. SARANYA, Class ID: 2nd Year C
+  Student: SHARMILA.B, Class ID: 2nd Year C
+  Student: SARAN V, Class ID: 2nd Year C
+  Student: VISHAL K, Class ID: 2nd Year C
+  Student: A.THOUFIKA, Class ID: 2nd Year C
+  Student: SHARMILA.M, Class ID: 2nd Year C
+  Student: SANGEERTHANA.M, Class ID: 2nd Year C
+  Student: P. Vaitheeshwari, Class ID: 2nd Year C
+  Student: C.SANTHOSH, Class ID: 2nd Year C
+  Student: SRI HARI KUMARAN B, Class ID: 2nd Year C
+  Student: A.SUJATHA, Class ID: 2nd Year C
+  Student: VARSHA S, Class ID: 2nd Year C
+  Student: SIDDIQ.R, Class ID: 2nd Year C
+  Student: SANTHOSH SOUNDAR, Class ID: 2nd Year C
+  Student: THENNARASAN.V, Class ID: 2nd Year C
+  Student: SURESH KUMAR P, Class ID: 2nd Year C
+  Student: S YOGESH SARAVANA, Class ID: 2nd Year C
+  Student: THILOTHAMMA.T, Class ID: 2nd Year C
+  Student: THANGARAJ S, Class ID: 2nd Year C
+  Student: V.TAMILARASI, Class ID: 2nd Year C
+  Student: SYED JAFIN H, Class ID: 2nd Year C
+  Student: M.TAJNISHA, Class ID: 2nd Year C
+  Student: SELVAKUMAR P, Class ID: 2nd Year C
+  Student: D VISHNU, Class ID: 2nd Year C
+  Student: SONALIKA D V, Class ID: 2nd Year C
+  Student: SRIRAM.V, Class ID: 2nd Year C
+  Student: U SANJAI, Class ID: 2nd Year C
+  Student: A.SOWMIYA, Class ID: 2nd Year C
+  Student: R.RAGUL, Class ID: 2nd Year C
+  Student: S.GOKUL, Class ID: 2nd Year C
+  Student: M. SANAKIYARAJ, Class ID: 2nd Year C
+  Student: S.VIMAL NATH, Class ID: 2nd Year C
+  Student: M.N.SREESHA, Class ID: 2nd Year C
+  Student: G.SUMAN, Class ID: 2nd Year C
+  Student: JANARTHANAN R, Class ID: 2nd Year C
+  Student: S.SARAMA, Class ID: 2nd Year C
+  Student: S.SAKTHIVEL, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: SIVAGURU T, Class ID: 2nd Year C
+  Student: L.SAKTHIVEL, Class ID: 2nd Year C
+  Student: C.SRIKANTH, Class ID: 2nd Year C
+  Student: MONISHAN S S, Class ID: 2nd Year C
+  Student: VINO M, Class ID: 2nd Year C
+  Student: SELVARAGAVAN K G, Class ID: 2nd Year C
+  Student: KARTHICKEYAN S, Class ID: 2nd Year C
+  Student: SATHISH M, Class ID: 2nd Year C
+  Student: VIGNESH V, Class ID: 2nd Year C
+  Student: THILAKBALAJI E, Class ID: 2nd Year C
+  Student: VENKATRAMANA S, Class ID: 2nd Year C
+  Student: S.THIRUMURUGAN, Class ID: 2nd Year C
+  Student: G.SIVASHREE, Class ID: 2nd Year C
+  Student: SANJANA.MS, Class ID: 2nd Year C
+  Student: R.VISHNU PRIYA, Class ID: 2nd Year C
+  Student: V.KARTHICK, Class ID: 2nd Year C
+  Student: VIKRAM.M.S, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: R VENKATESWARA, Class ID: 2nd Year C
+DEBUG: mark_attendance - class_id received: 2nd Year C
+DEBUG: mark_attendance - students fetched: 63
+  Student: S VASANTHAN, Class ID: 2nd Year C
+  Student: P Shruthi, Class ID: 2nd Year C
+  Student: S. SARANYA, Class ID: 2nd Year C
+  Student: SHARMILA.B, Class ID: 2nd Year C
+  Student: SARAN V, Class ID: 2nd Year C
+  Student: VISHAL K, Class ID: 2nd Year C
+  Student: A.THOUFIKA, Class ID: 2nd Year C
+  Student: SHARMILA.M, Class ID: 2nd Year C
+  Student: SANGEERTHANA.M, Class ID: 2nd Year C
+  Student: P. Vaitheeshwari, Class ID: 2nd Year C
+  Student: C.SANTHOSH, Class ID: 2nd Year C
+  Student: SRI HARI KUMARAN B, Class ID: 2nd Year C
+  Student: A.SUJATHA, Class ID: 2nd Year C
+  Student: VARSHA S, Class ID: 2nd Year C
+  Student: SIDDIQ.R, Class ID: 2nd Year C
+  Student: SANTHOSH SOUNDAR, Class ID: 2nd Year C
+  Student: THENNARASAN.V, Class ID: 2nd Year C
+  Student: SURESH KUMAR P, Class ID: 2nd Year C
+  Student: S YOGESH SARAVANA, Class ID: 2nd Year C
+  Student: THILOTHAMMA.T, Class ID: 2nd Year C
+  Student: THANGARAJ S, Class ID: 2nd Year C
+  Student: V.TAMILARASI, Class ID: 2nd Year C
+  Student: SYED JAFIN H, Class ID: 2nd Year C
+  Student: M.TAJNISHA, Class ID: 2nd Year C
+  Student: SELVAKUMAR P, Class ID: 2nd Year C
+  Student: D VISHNU, Class ID: 2nd Year C
+  Student: SONALIKA D V, Class ID: 2nd Year C
+  Student: SRIRAM.V, Class ID: 2nd Year C
+  Student: U SANJAI, Class ID: 2nd Year C
+  Student: A.SOWMIYA, Class ID: 2nd Year C
+  Student: R.RAGUL, Class ID: 2nd Year C
+  Student: S.GOKUL, Class ID: 2nd Year C
+  Student: M. SANAKIYARAJ, Class ID: 2nd Year C
+  Student: S.VIMAL NATH, Class ID: 2nd Year C
+  Student: M.N.SREESHA, Class ID: 2nd Year C
+  Student: G.SUMAN, Class ID: 2nd Year C
+  Student: JANARTHANAN R, Class ID: 2nd Year C
+  Student: S.SARAMA, Class ID: 2nd Year C
+  Student: S.SAKTHIVEL, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: SIVAGURU T, Class ID: 2nd Year C
+  Student: L.SAKTHIVEL, Class ID: 2nd Year C
+  Student: C.SRIKANTH, Class ID: 2nd Year C
+  Student: MONISHAN S S, Class ID: 2nd Year C
+  Student: VINO M, Class ID: 2nd Year C
+  Student: SELVARAGAVAN K G, Class ID: 2nd Year C
+  Student: KARTHICKEYAN S, Class ID: 2nd Year C
+  Student: SATHISH M, Class ID: 2nd Year C
+  Student: VIGNESH V, Class ID: 2nd Year C
+  Student: THILAKBALAJI E, Class ID: 2nd Year C
+  Student: VENKATRAMANA S, Class ID: 2nd Year C
+  Student: S.THIRUMURUGAN, Class ID: 2nd Year C
+  Student: G.SIVASHREE, Class ID: 2nd Year C
+  Student: SANJANA.MS, Class ID: 2nd Year C
+  Student: R.VISHNU PRIYA, Class ID: 2nd Year C
+  Student: V.KARTHICK, Class ID: 2nd Year C
+  Student: VIKRAM.M.S, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: R VENKATESWARA, Class ID: 2nd Year C
+DEBUG: mark_attendance - class_id received: 2nd Year C
+DEBUG: mark_attendance - students fetched: 63
+  Student: S VASANTHAN, Class ID: 2nd Year C
+  Student: P Shruthi, Class ID: 2nd Year C
+  Student: S. SARANYA, Class ID: 2nd Year C
+  Student: SHARMILA.B, Class ID: 2nd Year C
+  Student: SARAN V, Class ID: 2nd Year C
+  Student: VISHAL K, Class ID: 2nd Year C
+  Student: A.THOUFIKA, Class ID: 2nd Year C
+  Student: SHARMILA.M, Class ID: 2nd Year C
+  Student: SANGEERTHANA.M, Class ID: 2nd Year C
+  Student: P. Vaitheeshwari, Class ID: 2nd Year C
+  Student: C.SANTHOSH, Class ID: 2nd Year C
+  Student: SRI HARI KUMARAN B, Class ID: 2nd Year C
+  Student: A.SUJATHA, Class ID: 2nd Year C
+  Student: VARSHA S, Class ID: 2nd Year C
+  Student: SIDDIQ.R, Class ID: 2nd Year C
+  Student: SANTHOSH SOUNDAR, Class ID: 2nd Year C
+  Student: THENNARASAN.V, Class ID: 2nd Year C
+  Student: SURESH KUMAR P, Class ID: 2nd Year C
+  Student: S YOGESH SARAVANA, Class ID: 2nd Year C
+  Student: THILOTHAMMA.T, Class ID: 2nd Year C
+  Student: THANGARAJ S, Class ID: 2nd Year C
+  Student: V.TAMILARASI, Class ID: 2nd Year C
+  Student: SYED JAFIN H, Class ID: 2nd Year C
+  Student: M.TAJNISHA, Class ID: 2nd Year C
+  Student: SELVAKUMAR P, Class ID: 2nd Year C
+  Student: D VISHNU, Class ID: 2nd Year C
+  Student: SONALIKA D V, Class ID: 2nd Year C
+  Student: SRIRAM.V, Class ID: 2nd Year C
+  Student: U SANJAI, Class ID: 2nd Year C
+  Student: A.SOWMIYA, Class ID: 2nd Year C
+  Student: R.RAGUL, Class ID: 2nd Year C
+  Student: S.GOKUL, Class ID: 2nd Year C
+  Student: M. SANAKIYARAJ, Class ID: 2nd Year C
+  Student: S.VIMAL NATH, Class ID: 2nd Year C
+  Student: M.N.SREESHA, Class ID: 2nd Year C
+  Student: G.SUMAN, Class ID: 2nd Year C
+  Student: JANARTHANAN R, Class ID: 2nd Year C
+  Student: S.SARAMA, Class ID: 2nd Year C
+  Student: S.SAKTHIVEL, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: SIVAGURU T, Class ID: 2nd Year C
+  Student: L.SAKTHIVEL, Class ID: 2nd Year C
+  Student: C.SRIKANTH, Class ID: 2nd Year C
+  Student: MONISHAN S S, Class ID: 2nd Year C
+  Student: VINO M, Class ID: 2nd Year C
+  Student: SELVARAGAVAN K G, Class ID: 2nd Year C
+  Student: KARTHICKEYAN S, Class ID: 2nd Year C
+  Student: SATHISH M, Class ID: 2nd Year C
+  Student: VIGNESH V, Class ID: 2nd Year C
+  Student: THILAKBALAJI E, Class ID: 2nd Year C
+  Student: VENKATRAMANA S, Class ID: 2nd Year C
+  Student: S.THIRUMURUGAN, Class ID: 2nd Year C
+  Student: G.SIVASHREE, Class ID: 2nd Year C
+  Student: SANJANA.MS, Class ID: 2nd Year C
+  Student: R.VISHNU PRIYA, Class ID: 2nd Year C
+  Student: V.KARTHICK, Class ID: 2nd Year C
+  Student: VIKRAM.M.S, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: R VENKATESWARA, Class ID: 2nd Year C
+DEBUG: mark_attendance - class_id received: 3rd Year
+DEBUG: mark_attendance - students fetched: 48
+  Student: POOJA S, Class ID: 3rd Year
+  Student: ABARNA V, Class ID: 3rd Year
+  Student: ABINAYA.V, Class ID: 3rd Year
+  Student: AMALA DARSHA. D, Class ID: 3rd Year
+  Student: B.KUMARAVEL, Class ID: 3rd Year
+  Student: BASKAR V, Class ID: 3rd Year
+  Student: DEENA.R, Class ID: 3rd Year
+  Student: DEVASHREE R, Class ID: 3rd Year
+  Student: DHANUSH.K.M, Class ID: 3rd Year
+  Student: DHANUSH.S, Class ID: 3rd Year
+  Student: DHIVYANTH D, Class ID: 3rd Year
+  Student: HARIHARAN R, Class ID: 3rd Year
+  Student: KANIGA M, Class ID: 3rd Year
+  Student: KANNAN N, Class ID: 3rd Year
+  Student: LAKSHITHA K U, Class ID: 3rd Year
+  Student: LATIKA SREE U, Class ID: 3rd Year
+  Student: M. ABINAYA, Class ID: 3rd Year
+  Student: M.HAMSALEKHA, Class ID: 3rd Year
+  Student: M.THILAK RAJ, Class ID: 3rd Year
+  Student: MADHUMITHRA S, Class ID: 3rd Year
+  Student: MOHAMED ASIF M, Class ID: 3rd Year
+  Student: NALIN CHANDARAN.C, Class ID: 3rd Year
+  Student: NANDHAKISHORE.S, Class ID: 3rd Year
+  Student: NIVASH.K, Class ID: 3rd Year
+  Student: P.SABHARISHWARI, Class ID: 3rd Year
+  Student: P.SHARVESH, Class ID: 3rd Year
+  Student: POOVIZHI S, Class ID: 3rd Year
+  Student: R.DHANUSH ADITHYA, Class ID: 3rd Year
+  Student: R.THAMARAI SELVAN, Class ID: 3rd Year
+  Student: RAJAN.J, Class ID: 3rd Year
+  Student: RISHIKESAVAN S, Class ID: 3rd Year
+  Student: ROSHAN KUMAR E, Class ID: 3rd Year
+  Student: RUBAN A, Class ID: 3rd Year
+  Student: S.KARTHICK, Class ID: 3rd Year
+  Student: S.PAVITHRA, Class ID: 3rd Year
+  Student: S.RITHIKA, Class ID: 3rd Year
+  Student: S.VARSHINI, Class ID: 3rd Year
+  Student: SANDHIYA.B, Class ID: 3rd Year
+  Student: SHARVESH C, Class ID: 3rd Year
+  Student: SIVABALAN.N, Class ID: 3rd Year
+  Student: SRINITHI M, Class ID: 3rd Year
+  Student: T.PRAGADESWARI, Class ID: 3rd Year
+  Student: THANISH S, Class ID: 3rd Year
+  Student: THANUJA D, Class ID: 3rd Year
+  Student: THENMOZHI T, Class ID: 3rd Year
+  Student: V. RAKESH, Class ID: 3rd Year
+  Student: VIKASH KS, Class ID: 3rd Year
+  Student: VIMAL T, Class ID: 3rd Year
+DEBUG: mark_attendance - class_id received: 2nd Year C
+DEBUG: mark_attendance - students fetched: 63
+  Student: S VASANTHAN, Class ID: 2nd Year C
+  Student: P Shruthi, Class ID: 2nd Year C
+  Student: S. SARANYA, Class ID: 2nd Year C
+  Student: SHARMILA.B, Class ID: 2nd Year C
+  Student: SARAN V, Class ID: 2nd Year C
+  Student: VISHAL K, Class ID: 2nd Year C
+  Student: A.THOUFIKA, Class ID: 2nd Year C
+  Student: SHARMILA.M, Class ID: 2nd Year C
+  Student: SANGEERTHANA.M, Class ID: 2nd Year C
+  Student: P. Vaitheeshwari, Class ID: 2nd Year C
+  Student: C.SANTHOSH, Class ID: 2nd Year C
+  Student: SRI HARI KUMARAN B, Class ID: 2nd Year C
+  Student: A.SUJATHA, Class ID: 2nd Year C
+  Student: VARSHA S, Class ID: 2nd Year C
+  Student: SIDDIQ.R, Class ID: 2nd Year C
+  Student: SANTHOSH SOUNDAR, Class ID: 2nd Year C
+  Student: THENNARASAN.V, Class ID: 2nd Year C
+  Student: SURESH KUMAR P, Class ID: 2nd Year C
+  Student: S YOGESH SARAVANA, Class ID: 2nd Year C
+  Student: THILOTHAMMA.T, Class ID: 2nd Year C
+  Student: THANGARAJ S, Class ID: 2nd Year C
+  Student: V.TAMILARASI, Class ID: 2nd Year C
+  Student: SYED JAFIN H, Class ID: 2nd Year C
+  Student: M.TAJNISHA, Class ID: 2nd Year C
+  Student: SELVAKUMAR P, Class ID: 2nd Year C
+  Student: D VISHNU, Class ID: 2nd Year C
+  Student: SONALIKA D V, Class ID: 2nd Year C
+  Student: SRIRAM.V, Class ID: 2nd Year C
+  Student: U SANJAI, Class ID: 2nd Year C
+  Student: A.SOWMIYA, Class ID: 2nd Year C
+  Student: R.RAGUL, Class ID: 2nd Year C
+  Student: S.GOKUL, Class ID: 2nd Year C
+  Student: M. SANAKIYARAJ, Class ID: 2nd Year C
+  Student: S.VIMAL NATH, Class ID: 2nd Year C
+  Student: M.N.SREESHA, Class ID: 2nd Year C
+  Student: G.SUMAN, Class ID: 2nd Year C
+  Student: JANARTHANAN R, Class ID: 2nd Year C
+  Student: S.SARAMA, Class ID: 2nd Year C
+  Student: S.SAKTHIVEL, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: SIVAGURU T, Class ID: 2nd Year C
+  Student: L.SAKTHIVEL, Class ID: 2nd Year C
+  Student: C.SRIKANTH, Class ID: 2nd Year C
+  Student: MONISHAN S S, Class ID: 2nd Year C
+  Student: VINO M, Class ID: 2nd Year C
+  Student: SELVARAGAVAN K G, Class ID: 2nd Year C
+  Student: KARTHICKEYAN S, Class ID: 2nd Year C
+  Student: SATHISH M, Class ID: 2nd Year C
+  Student: VIGNESH V, Class ID: 2nd Year C
+  Student: THILAKBALAJI E, Class ID: 2nd Year C
+  Student: VENKATRAMANA S, Class ID: 2nd Year C
+  Student: S.THIRUMURUGAN, Class ID: 2nd Year C
+  Student: G.SIVASHREE, Class ID: 2nd Year C
+  Student: SANJANA.MS, Class ID: 2nd Year C
+  Student: R.VISHNU PRIYA, Class ID: 2nd Year C
+  Student: V.KARTHICK, Class ID: 2nd Year C
+  Student: VIKRAM.M.S, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: R VENKATESWARA, Class ID: 2nd Year C
+DEBUG: mark_attendance - class_id received: 2nd Year C
+DEBUG: mark_attendance - students fetched: 63
+  Student: S VASANTHAN, Class ID: 2nd Year C
+  Student: P Shruthi, Class ID: 2nd Year C
+  Student: S. SARANYA, Class ID: 2nd Year C
+  Student: SHARMILA.B, Class ID: 2nd Year C
+  Student: SARAN V, Class ID: 2nd Year C
+  Student: VISHAL K, Class ID: 2nd Year C
+  Student: A.THOUFIKA, Class ID: 2nd Year C
+  Student: SHARMILA.M, Class ID: 2nd Year C
+  Student: SANGEERTHANA.M, Class ID: 2nd Year C
+  Student: P. Vaitheeshwari, Class ID: 2nd Year C
+  Student: C.SANTHOSH, Class ID: 2nd Year C
+  Student: SRI HARI KUMARAN B, Class ID: 2nd Year C
+  Student: A.SUJATHA, Class ID: 2nd Year C
+  Student: VARSHA S, Class ID: 2nd Year C
+  Student: SIDDIQ.R, Class ID: 2nd Year C
+  Student: SANTHOSH SOUNDAR, Class ID: 2nd Year C
+  Student: THENNARASAN.V, Class ID: 2nd Year C
+  Student: SURESH KUMAR P, Class ID: 2nd Year C
+  Student: S YOGESH SARAVANA, Class ID: 2nd Year C
+  Student: THILOTHAMMA.T, Class ID: 2nd Year C
+  Student: THANGARAJ S, Class ID: 2nd Year C
+  Student: V.TAMILARASI, Class ID: 2nd Year C
+  Student: SYED JAFIN H, Class ID: 2nd Year C
+  Student: M.TAJNISHA, Class ID: 2nd Year C
+  Student: SELVAKUMAR P, Class ID: 2nd Year C
+  Student: D VISHNU, Class ID: 2nd Year C
+  Student: SONALIKA D V, Class ID: 2nd Year C
+  Student: SRIRAM.V, Class ID: 2nd Year C
+  Student: U SANJAI, Class ID: 2nd Year C
+  Student: A.SOWMIYA, Class ID: 2nd Year C
+  Student: R.RAGUL, Class ID: 2nd Year C
+  Student: S.GOKUL, Class ID: 2nd Year C
+  Student: M. SANAKIYARAJ, Class ID: 2nd Year C
+  Student: S.VIMAL NATH, Class ID: 2nd Year C
+  Student: M.N.SREESHA, Class ID: 2nd Year C
+  Student: G.SUMAN, Class ID: 2nd Year C
+  Student: JANARTHANAN R, Class ID: 2nd Year C
+  Student: S.SARAMA, Class ID: 2nd Year C
+  Student: S.SAKTHIVEL, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: SIVAGURU T, Class ID: 2nd Year C
+  Student: L.SAKTHIVEL, Class ID: 2nd Year C
+  Student: C.SRIKANTH, Class ID: 2nd Year C
+  Student: MONISHAN S S, Class ID: 2nd Year C
+  Student: VINO M, Class ID: 2nd Year C
+  Student: SELVARAGAVAN K G, Class ID: 2nd Year C
+  Student: KARTHICKEYAN S, Class ID: 2nd Year C
+  Student: SATHISH M, Class ID: 2nd Year C
+  Student: VIGNESH V, Class ID: 2nd Year C
+  Student: THILAKBALAJI E, Class ID: 2nd Year C
+  Student: VENKATRAMANA S, Class ID: 2nd Year C
+  Student: S.THIRUMURUGAN, Class ID: 2nd Year C
+  Student: G.SIVASHREE, Class ID: 2nd Year C
+  Student: SANJANA.MS, Class ID: 2nd Year C
+  Student: R.VISHNU PRIYA, Class ID: 2nd Year C
+  Student: V.KARTHICK, Class ID: 2nd Year C
+  Student: VIKRAM.M.S, Class ID: 2nd Year C
+  Student: V VIJAY, Class ID: 2nd Year C
+  Student: SUJINTHA.M, Class ID: 2nd Year C
+  Student: D.SHRIMATHI, Class ID: 2nd Year C
+  Student: R VENKATESWARA, Class ID: 2nd Year C
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: 3rd Year
+DEBUG: mark_attendance - students fetched: 48
+  Student: POOJA S, Class ID: 3rd Year
+  Student: ABARNA V, Class ID: 3rd Year
+  Student: ABINAYA.V, Class ID: 3rd Year
+  Student: AMALA DARSHA. D, Class ID: 3rd Year
+  Student: B.KUMARAVEL, Class ID: 3rd Year
+  Student: BASKAR V, Class ID: 3rd Year
+  Student: DEENA.R, Class ID: 3rd Year
+  Student: DEVASHREE R, Class ID: 3rd Year
+  Student: DHANUSH.K.M, Class ID: 3rd Year
+  Student: DHANUSH.S, Class ID: 3rd Year
+  Student: DHIVYANTH D, Class ID: 3rd Year
+  Student: HARIHARAN R, Class ID: 3rd Year
+  Student: KANIGA M, Class ID: 3rd Year
+  Student: KANNAN N, Class ID: 3rd Year
+  Student: LAKSHITHA K U, Class ID: 3rd Year
+  Student: LATIKA SREE U, Class ID: 3rd Year
+  Student: M. ABINAYA, Class ID: 3rd Year
+  Student: M.HAMSALEKHA, Class ID: 3rd Year
+  Student: M.THILAK RAJ, Class ID: 3rd Year
+  Student: MADHUMITHRA S, Class ID: 3rd Year
+  Student: MOHAMED ASIF M, Class ID: 3rd Year
+  Student: NALIN CHANDARAN.C, Class ID: 3rd Year
+  Student: NANDHAKISHORE.S, Class ID: 3rd Year
+  Student: NIVASH.K, Class ID: 3rd Year
+  Student: P.SABHARISHWARI, Class ID: 3rd Year
+  Student: P.SHARVESH, Class ID: 3rd Year
+  Student: POOVIZHI S, Class ID: 3rd Year
+  Student: R.DHANUSH ADITHYA, Class ID: 3rd Year
+  Student: R.THAMARAI SELVAN, Class ID: 3rd Year
+  Student: RAJAN.J, Class ID: 3rd Year
+  Student: RISHIKESAVAN S, Class ID: 3rd Year
+  Student: ROSHAN KUMAR E, Class ID: 3rd Year
+  Student: RUBAN A, Class ID: 3rd Year
+  Student: S.KARTHICK, Class ID: 3rd Year
+  Student: S.PAVITHRA, Class ID: 3rd Year
+  Student: S.RITHIKA, Class ID: 3rd Year
+  Student: S.VARSHINI, Class ID: 3rd Year
+  Student: SANDHIYA.B, Class ID: 3rd Year
+  Student: SHARVESH C, Class ID: 3rd Year
+  Student: SIVABALAN.N, Class ID: 3rd Year
+  Student: SRINITHI M, Class ID: 3rd Year
+  Student: T.PRAGADESWARI, Class ID: 3rd Year
+  Student: THANISH S, Class ID: 3rd Year
+  Student: THANUJA D, Class ID: 3rd Year
+  Student: THENMOZHI T, Class ID: 3rd Year
+  Student: V. RAKESH, Class ID: 3rd Year
+  Student: VIKASH KS, Class ID: 3rd Year
+  Student: VIMAL T, Class ID: 3rd Year
+DEBUG: mark_attendance - class_id received: 2nd Year A
+DEBUG: mark_attendance - students fetched: 62
+  Student: S.ADHISHESAN, Class ID: 2nd Year A
+  Student: K.AKSHITHA, Class ID: 2nd Year A
+  Student: F. ANGEL, Class ID: 2nd Year A
+  Student: JN ANUPRIYAN, Class ID: 2nd Year A
+  Student: K.ANUSIYA, Class ID: 2nd Year A
+  Student: M ARSATH AHAMED, Class ID: 2nd Year A
+  Student: ASME BENIL HURSHINI.B.A, Class ID: 2nd Year A
+  Student: A.BALAMURUGAN, Class ID: 2nd Year A
+  Student: BALAMURUGAN K, Class ID: 2nd Year A
+  Student: BHARATH S, Class ID: 2nd Year A
+  Student: BHAWADHARANI A, Class ID: 2nd Year A
+  Student: BHOOPESH.S, Class ID: 2nd Year A
+  Student: CHANDRU C, Class ID: 2nd Year A
+  Student: DEENA.P, Class ID: 2nd Year A
+  Student: A. DEEPA, Class ID: 2nd Year A
+  Student: DEEPAK M, Class ID: 2nd Year A
+  Student: DEVARAJ.S.S, Class ID: 2nd Year A
+  Student: DHANUSH S, Class ID: 2nd Year A
+  Student: DHANUSHIYA S, Class ID: 2nd Year A
+  Student: DHANYALAXMI B, Class ID: 2nd Year A
+  Student: DHARANI V, Class ID: 2nd Year A
+  Student: DHARMENDRA A. L, Class ID: 2nd Year A
+  Student: DHARSHINI. A, Class ID: 2nd Year A
+  Student: R.DHASIN, Class ID: 2nd Year A
+  Student: DHAYANITHI S, Class ID: 2nd Year A
+  Student: DHINAGARAN N, Class ID: 2nd Year A
+  Student: DHIVYA S, Class ID: 2nd Year A
+  Student: DHIVYADHARSHINI.V, Class ID: 2nd Year A
+  Student: DHIVYASRI G, Class ID: 2nd Year A
+  Student: DINESH CHANDRAN.K, Class ID: 2nd Year A
+  Student: DIVAKAR V, Class ID: 2nd Year A
+  Student: DIVYA.A, Class ID: 2nd Year A
+  Student: DIWAKAR V, Class ID: 2nd Year A
+  Student: S.DURGADEVI, Class ID: 2nd Year A
+  Student: R.EJAS AHMED, Class ID: 2nd Year A
+  Student: ELANGOVAN K, Class ID: 2nd Year A
+  Student: M.G.GAYATHRI, Class ID: 2nd Year A
+  Student: GOKULAPRIYAN S, Class ID: 2nd Year A
+  Student: GOUTHAM M, Class ID: 2nd Year A
+  Student: R.GURUJEEVAN, Class ID: 2nd Year A
+  Student: HAMAD BASHA M, Class ID: 2nd Year A
+  Student: G.HARI HARAN, Class ID: 2nd Year A
+  Student: HARIPRASATH M, Class ID: 2nd Year A
+  Student: HARISH.S, Class ID: 2nd Year A
+  Student: HARISHITHA M, Class ID: 2nd Year A
+  Student: HARSHITHA V, Class ID: 2nd Year A
+  Student: IMRAN BASHA.I, Class ID: 2nd Year A
+  Student: A INDUJA, Class ID: 2nd Year A
+  Student: D.ISHWARIYA, Class ID: 2nd Year A
+  Student: JAI HARSHINI.U, Class ID: 2nd Year A
+  Student: C.JEEVITHA, Class ID: 2nd Year A
+  Student: KALAIVANI.E, Class ID: 2nd Year A
+  Student: KANNAN.V, Class ID: 2nd Year A
+  Student: KARTHIKA. J, Class ID: 2nd Year A
+  Student: KAVIYA.K, Class ID: 2nd Year A
+  Student: KAVIYA.N, Class ID: 2nd Year A
+  Student: S.KAVYA, Class ID: 2nd Year A
+  Student: A.G.V.KEERTHANA, Class ID: 2nd Year A
+  Student: KEERTHIVARMA A, Class ID: 2nd Year A
+  Student: KESAVAN M, Class ID: 2nd Year A
+  Student: KESAVAN R, Class ID: 2nd Year A
+  Student: KISHORE KUMAR, Class ID: 2nd Year A
+DEBUG: mark_attendance - class_id received: 2nd Year A
+DEBUG: mark_attendance - students fetched: 62
+  Student: S.ADHISHESAN, Class ID: 2nd Year A
+  Student: K.AKSHITHA, Class ID: 2nd Year A
+  Student: F. ANGEL, Class ID: 2nd Year A
+  Student: JN ANUPRIYAN, Class ID: 2nd Year A
+  Student: K.ANUSIYA, Class ID: 2nd Year A
+  Student: M ARSATH AHAMED, Class ID: 2nd Year A
+  Student: ASME BENIL HURSHINI.B.A, Class ID: 2nd Year A
+  Student: A.BALAMURUGAN, Class ID: 2nd Year A
+  Student: BALAMURUGAN K, Class ID: 2nd Year A
+  Student: BHARATH S, Class ID: 2nd Year A
+  Student: BHAWADHARANI A, Class ID: 2nd Year A
+  Student: BHOOPESH.S, Class ID: 2nd Year A
+  Student: CHANDRU C, Class ID: 2nd Year A
+  Student: DEENA.P, Class ID: 2nd Year A
+  Student: A. DEEPA, Class ID: 2nd Year A
+  Student: DEEPAK M, Class ID: 2nd Year A
+  Student: DEVARAJ.S.S, Class ID: 2nd Year A
+  Student: DHANUSH S, Class ID: 2nd Year A
+  Student: DHANUSHIYA S, Class ID: 2nd Year A
+  Student: DHANYALAXMI B, Class ID: 2nd Year A
+  Student: DHARANI V, Class ID: 2nd Year A
+  Student: DHARMENDRA A. L, Class ID: 2nd Year A
+  Student: DHARSHINI. A, Class ID: 2nd Year A
+  Student: R.DHASIN, Class ID: 2nd Year A
+  Student: DHAYANITHI S, Class ID: 2nd Year A
+  Student: DHINAGARAN N, Class ID: 2nd Year A
+  Student: DHIVYA S, Class ID: 2nd Year A
+  Student: DHIVYADHARSHINI.V, Class ID: 2nd Year A
+  Student: DHIVYASRI G, Class ID: 2nd Year A
+  Student: DINESH CHANDRAN.K, Class ID: 2nd Year A
+  Student: DIVAKAR V, Class ID: 2nd Year A
+  Student: DIVYA.A, Class ID: 2nd Year A
+  Student: DIWAKAR V, Class ID: 2nd Year A
+  Student: S.DURGADEVI, Class ID: 2nd Year A
+  Student: R.EJAS AHMED, Class ID: 2nd Year A
+  Student: ELANGOVAN K, Class ID: 2nd Year A
+  Student: M.G.GAYATHRI, Class ID: 2nd Year A
+  Student: GOKULAPRIYAN S, Class ID: 2nd Year A
+  Student: GOUTHAM M, Class ID: 2nd Year A
+  Student: R.GURUJEEVAN, Class ID: 2nd Year A
+  Student: HAMAD BASHA M, Class ID: 2nd Year A
+  Student: G.HARI HARAN, Class ID: 2nd Year A
+  Student: HARIPRASATH M, Class ID: 2nd Year A
+  Student: HARISH.S, Class ID: 2nd Year A
+  Student: HARISHITHA M, Class ID: 2nd Year A
+  Student: HARSHITHA V, Class ID: 2nd Year A
+  Student: IMRAN BASHA.I, Class ID: 2nd Year A
+  Student: A INDUJA, Class ID: 2nd Year A
+  Student: D.ISHWARIYA, Class ID: 2nd Year A
+  Student: JAI HARSHINI.U, Class ID: 2nd Year A
+  Student: C.JEEVITHA, Class ID: 2nd Year A
+  Student: KALAIVANI.E, Class ID: 2nd Year A
+  Student: KANNAN.V, Class ID: 2nd Year A
+  Student: KARTHIKA. J, Class ID: 2nd Year A
+  Student: KAVIYA.K, Class ID: 2nd Year A
+  Student: KAVIYA.N, Class ID: 2nd Year A
+  Student: S.KAVYA, Class ID: 2nd Year A
+  Student: A.G.V.KEERTHANA, Class ID: 2nd Year A
+  Student: KEERTHIVARMA A, Class ID: 2nd Year A
+  Student: KESAVAN M, Class ID: 2nd Year A
+  Student: KESAVAN R, Class ID: 2nd Year A
+  Student: KISHORE KUMAR, Class ID: 2nd Year A
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
+DEBUG: mark_attendance - class_id received: Final Year
+DEBUG: mark_attendance - students fetched: 63
+  Student: ANUKRAGA V, Class ID: Final Year
+  Student: ARSHATH K, Class ID: Final Year
+  Student: AYUS P, Class ID: Final Year
+  Student: BALA M, Class ID: Final Year
+  Student: BALA GURU T, Class ID: Final Year
+  Student: BHARATHA SELVAN M, Class ID: Final Year
+  Student: CHANDRU V, Class ID: Final Year
+  Student: CHOWTHRI P, Class ID: Final Year
+  Student: DHANUSH M, Class ID: Final Year
+  Student: DHANUSHRI E, Class ID: Final Year
+  Student: EZHIL SAVIER S, Class ID: Final Year
+  Student: GNANASHIVAN S, Class ID: Final Year
+  Student: GOKULAKANNAN M, Class ID: Final Year
+  Student: GOWTHAM C, Class ID: Final Year
+  Student: GURUMOORTHI S, Class ID: Final Year
+  Student: JAGAN R, Class ID: Final Year
+  Student: KALAISELVAN R, Class ID: Final Year
+  Student: KISHORE S, Class ID: Final Year
+  Student: MAGESHWARI M, Class ID: Final Year
+  Student: MAGUDESHWARAN H, Class ID: Final Year
+  Student: MAHENDRAN K, Class ID: Final Year
+  Student: MALAVIKA M, Class ID: Final Year
+  Student: MANOJ KUMAR S, Class ID: Final Year
+  Student: MOHAMMED AJMAL A, Class ID: Final Year
+  Student: MOHANRAJ P, Class ID: Final Year
+  Student: MOHITH S, Class ID: Final Year
+  Student: MONISHA S, Class ID: Final Year
+  Student: MUGILAN T, Class ID: Final Year
+  Student: NANDARASI G, Class ID: Final Year
+  Student: NARESH KUMAR V, Class ID: Final Year
+  Student: NIKITHA A, Class ID: Final Year
+  Student: NISHA S, Class ID: Final Year
+  Student: NITHISH KUMAR K, Class ID: Final Year
+  Student: PRAKASH P, Class ID: Final Year
+  Student: PRAKASH R, Class ID: Final Year
+  Student: PRASANNA V, Class ID: Final Year
+  Student: PREETHINGA R, Class ID: Final Year
+  Student: PRIYA S, Class ID: Final Year
+  Student: PRIYADHARSHINI P, Class ID: Final Year
+  Student: RINDHYA J S, Class ID: Final Year
+  Student: RUKMANGATHAN G S, Class ID: Final Year
+  Student: SABARI K, Class ID: Final Year
+  Student: SAKTHIKUMAR S, Class ID: Final Year
+  Student: SAMUVEL P, Class ID: Final Year
+  Student: SASIKUMAR M, Class ID: Final Year
+  Student: SATHISHKUMAR S, Class ID: Final Year
+  Student: SHRUTHIKA S, Class ID: Final Year
+  Student: SIVA RAMAN V, Class ID: Final Year
+  Student: SOUMYA A, Class ID: Final Year
+  Student: SREEKANTH A, Class ID: Final Year
+  Student: SUBASHINI K, Class ID: Final Year
+  Student: SURIYA P, Class ID: Final Year
+  Student: SURYA R, Class ID: Final Year
+  Student: THANGA PRASATH N, Class ID: Final Year
+  Student: THARUN S, Class ID: Final Year
+  Student: VINITH D, Class ID: Final Year
+  Student: VISHNU SINGH R, Class ID: Final Year
+  Student: YERRIBOYINA GOPI, Class ID: Final Year
+  Student: AKASH C, Class ID: Final Year
+  Student: DINAK SAJU S, Class ID: Final Year
+  Student: KAVIYAPRIYAN M, Class ID: Final Year
+  Student: KIRUBAHARARAJ N E, Class ID: Final Year
+  Student: SANJAY KUMAR R, Class ID: Final Year
